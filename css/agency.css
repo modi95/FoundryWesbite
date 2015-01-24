@@ -865,3 +865,13 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+.img-responsive1{
+    width: 230px;
+    height: 250px;
+}
+
+.img-responsive2{
+    width: 230px;
+    height: 250px;
+}
