@@ -1,0 +1,230 @@
+@import url(http://fonts.googleapis.com/css?family=Quicksand:400,300,700);
+@import url(http://fonts.googleapis.com/css?family=Jockey+One);
+@import url(http://fonts.googleapis.com/css?family=Six+Caps);
+@media screen and (width: 1290px) {
+
+      }
+      html{
+        padding:0px;
+        background-color:#001113;
+      }
+      body{
+        padding:0px;
+        margin:0px;
+        font-family: 'Quicksand', sans-serif;
+      }
+      .row{
+        background-color:white;
+        width:100vw;
+        height:90vh;
+        padding:0px;
+        margin:0px
+        display: inline-block;
+        z-index:-213213;
+      }
+      .section{
+        padding:0px;
+        position:relative;
+        height:90vh;
+        z-index:0;
+      }
+      #logo{
+        font-family: 'Six Caps', sans-serif;
+        font-size:10.0em;
+        color:white;
+        transform:translate(1vw,-15vh);
+      }
+      #sub{
+        float:right;
+        margin:0px;
+        font-family: 'Six Caps', sans-serif;
+        font-size:5.0em;
+        color:white;
+        transform:translate(-5vw,-25vh);
+      }
+      #r0{
+        background-image: url("header-bg.jpg");
+        background-size: cover;
+
+      }
+      #r1{
+
+      }
+      #r2{
+
+      }
+      #r3{
+
+      }
+      /*min-width*/
+      #summary{
+        float:left;
+        width:100vw;
+        margin:auto;
+      }
+      #team{
+        float:left;
+        width:50vw;
+        background-color:white;
+      }
+      #blog{
+        float:right;
+        width:50vw;
+        background: white;
+      }
+      #staff{
+        float:left;
+        width:50vw;
+      }
+      #sponsors{
+        float:right;
+        width:50vw;
+        background-color:white;
+      }
+      #text{
+        float:left;
+        width:50vw;
+        background: rgba(36, 30, 30, 1.0);
+      }
+      #image{
+        float:right;
+        width:50vw;
+        background-color:green;
+        background-image: url("staff.jpg");
+        background-size: cover;
+        background-position: center top;
+      }
+      #footer{
+        position:relative;
+        float:right;
+        height:100px;
+        width:45vw;
+        z-index:0;
+        color:#E67E22;
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 400;
+      }
+      
+      .container{
+        position:relative;
+        height:70vh;
+        width:40vw;
+        margin: 5vw;
+        z-index:32;
+        background-color:orange;
+        margin-top: 5vh;
+        transform:translateY(5vh);
+      }
+      .title{
+        position:relative;
+        padding:20px;
+        text-align:right;
+        transform:translate(-2.5vw, -2vh);
+        width:100px;
+        z-index:35;
+        background-color:red;
+      }
+      .content{
+        position:relative;
+        height:70vh;
+        width:50vw;
+        margin: 5vw;
+        z-index:32;
+        background-color:orange;
+        margin-top:0px;
+        transform:translateY(10vh);
+      }
+      #team_container{
+        background-color:#EA4F4F;
+      }
+      #team_container:hover{
+        background-color:#A63838;
+      }
+      #blog_container{
+        background:#EBF8F8;
+      }
+      #blog_container:hover{
+        background:#B1BABA;
+      }
+      #sponsor_container{
+        background:#8C7A7A;
+      }
+      #sponsor_container:hover{
+        background:#594E4E;
+      }
+      #staff_container{
+        background:#F1F2F2;
+      }
+      #staff_container:hover{
+        background:#828282;
+      }
+      #teams{
+        background-color:#EAADAD;
+      }
+      #work{
+        transform:translate(-2.5vw, -10vh);
+      }
+      #write{
+        transform:translate(-2.0vw, 0vh);
+        background:#B3CBCB;
+      }
+      #companies{
+        transform:translate(-2.0vw, -5vh);
+        background:#9F9292;
+      }
+      #staffers{
+        transform:translate(-2.5vw, 0vh);
+        background:#BCC1C1;
+      }
+      #text_content{
+        padding:10px;
+        padding-left:15px;
+        margin-top:-5px;
+        color:white;
+        background: rgba(36, 30, 30, .95);
+      }
+      .indent{
+        background-color: #D36E6E;
+        box-sizing: border-box;
+        color: #FFF;
+        font-family: "National Light";
+        font-size: 21px;
+        height: 2px;
+        letter-spacing: 0.9px;
+        line-height: 28px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        outline-color: #FFF;
+        outline-style: none;
+        outline-width: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-top: 0px;
+        position: absolute;
+        top: 115px;
+        left: 15px;
+        width: 36px;
+      }
+      #text h1{
+        font-family: 'Quicksand', sans-serif;
+        font-weight: normal;
+        margin-bottom:-15px;
+      }
+
+      #text h3{
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 400;
+        color:#A3978E;
+      }
+
+      #text p{
+        font-family: 'Quicksand', sans-serif;
+        margin-top:-10px;
+        margin-left:10px;
+        margin-right:10px;
+        font-weight: light;
+        margin-left:10vh;
+      }
