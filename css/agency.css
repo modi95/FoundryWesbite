@@ -854,6 +854,12 @@ ul.social-buttons li a:active {
     background: #fed136;
 }
 
+.img-responsive{
+    width: 230px;
+    height: 250px;
+}
+
+
 img::selection {
     background: 0 0;
 }
@@ -866,12 +872,3 @@ body {
     webkit-tap-highlight-color: #fed136;
 }
 
-.img-responsive1{
-    width: 230px;
-    height: 250px;
-}
-
-.img-responsive2{
-    width: 230px;
-    height: 250px;
-}
