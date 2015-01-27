@@ -45,7 +45,7 @@
     transform:translate(-3vw,70vh);
   }
   #r0{
-    background-image: url("header-bg.jpg");
+    background-image: url("../img/header-bg.jpg");
     background-size: cover;
 
   }
@@ -92,7 +92,7 @@
     float:right;
     width:50vw;
     background-color:green;
-    background-image: url("staff.jpg");
+    background-image: url("../img/staff.jpg");
     background-size: cover;
     background-position: center top;
   }
@@ -243,24 +243,24 @@
   #google{
     width:35vw;
     height:12vw;
-    background-image: url('img/sponsors/google.png');
+    background-image: url('../img/sponsors/google.png');
   }
   #google:hover{
     width:35vw;
     height:12vw;
-    background-image: url('img/sponsors/google_color.png');
+    background-image: url('../img/sponsors/google_color.png');
   }
   #red{
     transform:translate(-2.0vw, 0vh);
     width:20vw;
     height:20vw;
-    background-image: url('img/sponsors/3red.png');
+    background-image: url('../img/sponsors/3red.png');
   }
   #red:hover{
     transform:translate(-2.0vw, 0vh);
     width:20vw;
     height:20vw;
-    background-image: url('img/sponsors/3red_color.png');
+    background-image: url('../img/sponsors/3red_color.png');
   }
   #help{
     heigth:50vh;
@@ -315,7 +315,7 @@
         transform:translate(-3vw,70vh);
       }
       #r0{
-        background-image: url("header-bg.jpg");
+        background-image: url("../img/header-bg.jpg");
         background-size: cover;
 
       }
@@ -362,7 +362,7 @@
         float:right;
         width:50vw;
         background-color:green;
-        background-image: url("staff.jpg");
+        background-image: url("../img/staff.jpg");
         background-size: cover;
         background-position: center top;
       }
@@ -511,24 +511,24 @@
       #google{
         width:35vw;
         height:12vw;
-        background-image: url('img/sponsors/google.png');
+        background-image: url('../img/sponsors/google.png');
       }
       #google:hover{
         width:35vw;
         height:12vw;
-        background-image: url('img/sponsors/google_color.png');
+        background-image: url('../img/sponsors/google_color.png');
       }
       #red{
         transform:translate(-2.0vw, 0vh);
         width:20vw;
         height:20vw;
-        background-image: url('img/sponsors/3red.png');
+        background-image: url('../img/sponsors/3red.png');
       }
       #red:hover{
         transform:translate(-2.0vw, 0vh);
         width:20vw;
         height:20vw;
-        background-image: url('img/sponsors/3red_color.png');
+        background-image: url('../img/sponsors/3red_color.png');
       }
       #help{
         heigth:50vh;
