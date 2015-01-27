@@ -1,9 +1,11 @@
 /*!
  * Start Bootstrap - Round About HTML Template (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ * Code licensed under the Apache License v1.
+ * For details, see http://www.apache.org/licenses/LICENSE-1.
  */
-
+ @import url(http://fonts.googleapis.com/css?family=Quicksand:400,300,700);
+ @import url(http://fonts.googleapis.com/css?family=Jockey+One);
+ @import url(http://fonts.googleapis.com/css?family=Six+Caps);
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
@@ -14,4 +16,122 @@ body {
 
 footer {
     margin: 50px 0;
+}
+.overlord{
+  color:white;
+  background-color:#3498DB;
+  font-family: 'Quicksand', sans-serif;
+}
+.overlordTitle{
+  color:white;
+  background-color:#246996;
+  font-size:1em;
+  position:relative;
+  padding:20px;
+  text-align:right;
+  transform:translate(-5vw,0);
+  width:150px;
+  z-index:35;
+  
+}
+.A{
+  background-color:#7BC99C;
+  color:white;
+  font-family: 'Quicksand', sans-serif;
+
+}
+.Atitle{
+  background-color:#68AB84;
+  font-size:1em;
+  position:relative;
+  padding:20px;
+  text-align:right;
+  transform:translate(-5vw,0);
+  width:150px;
+  z-index:35;
+
+}
+.Atitle small{
+  font-weight:light;
+}
+.B{
+  background-color:#34495E;
+  color:white;
+  font-family: 'Quicksand', sans-serif;
+
+}
+.Btitle{
+  background-color:#25425E;
+  font-size:1em;
+  position:relative;
+  padding:20px;
+  text-align:right;
+  transform:translate(-5vw, 0);
+  width:150px;
+  z-index:35;
+
+}
+.Btitle small{
+  font-weight:light;
+}
+.C{
+  background-color:#F39C12;
+  color:white;
+  font-family: 'Quicksand', sans-serif;
+
+}
+.Ctitle{
+  background-color:#DB8D0F;
+  font-size:1em;
+  position:relative;
+  padding:20px;
+  text-align:right;
+  transform:translate(-5vw, 0);
+  width:150px;
+  z-index:35;
+
+}
+.Ctitle small{
+  font-weight:light;
+}
+.D{
+  background-color:#EA4F4F;
+  color:white;
+  font-family: 'Quicksand', sans-serif;
+
+}
+.Dtitle{
+  background-color:#B83E3E;
+  font-size:1em;
+  position:relative;
+  padding:20px;
+  text-align:right;
+  transform:translate(-5vw, 0);
+  width:150px;
+  z-index:35;
+
+
+}
+.Dtitle small{
+  font-weight:light;
+}
+.E{
+  background-color:#2F3636;
+  color:white;
+  font-family: 'Quicksand', sans-serif;
+
+}
+.Etitle{
+  background-color:#404A4A;
+  font-size:1em;
+  position:relative;
+  padding:20px;
+  text-align:right;
+  transform:translate(-5vw, 0);
+  width:150px;
+  z-index:35;
+
+}
+.Etitle small{
+  font-weight:light;
 }
