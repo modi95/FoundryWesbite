@@ -56,6 +56,9 @@ footer {
   font-family: 'Quicksand', sans-serif;
   height:350px;
 }
+.page-header {
+  font-size: 80px;
+}
 .overlordTitle{
   color:white;
   background-color:#246996;
