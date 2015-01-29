@@ -79,8 +79,7 @@ footer {
   font-size:1em;
   position:relative;
   padding:20px;
-  text-align:right;
-  transform:translate(-8.5%,0);
+  text-align:middle;
   width:100%;
   z-index:35;
 
@@ -99,8 +98,8 @@ footer {
   font-size:1em;
   position:relative;
   padding:20px;
-  text-align:right;
-  transform:translate(-8.5%, 0);
+  text-align:middle;
+  transform:translate(0%, 0);
   width:100%;
   z-index:35;
 
@@ -119,8 +118,7 @@ footer {
   font-size:1em;
   position:relative;
   padding:20px;
-  text-align:right;
-  transform:translate(-8.5%, 0);
+  text-align:middle;
   width:100%;
   z-index:35;
 
@@ -135,15 +133,14 @@ footer {
   height:350px;
 }
 .img-circle{
-  transform:translate(-30px, 10px);
+  transform:translate(0px, 10px);
 }
 .Dtitle{
   background-color:rgba(0,0,0,0.3);
   font-size:1em;
   position:relative;
   padding:20px;
-  text-align:right;
-  transform:translate(-8.5%, 0);
+  text-align:middle;
   width:100%;
   z-index:35;
 
@@ -164,7 +161,6 @@ footer {
   position:relative;
   padding:20px;
   text-align:right;
-  transform:translate(-8.5%, 0);
   width:100%;
   z-index:35;
 
