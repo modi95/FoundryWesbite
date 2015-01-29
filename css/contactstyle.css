@@ -50,7 +50,7 @@ a:hover {
 #signup-form { 
 	width: 510px; 
 	margin: 0 auto; 
-	margin-top: 50px; 
+	margin-top: 100px; 
 	margin-bottom: 50px; 
 	background: #fff; 
 	padding: 40px; 
@@ -137,3 +137,4 @@ body{
 	background: url("../img/contactbg.jpg") repeat-x scroll 0 0 transparent; 
 	background-size: 100% 100%;
 }
+
