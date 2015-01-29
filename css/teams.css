@@ -62,7 +62,7 @@ footer {
 .overlordTitle{
   color:white;
   background-color:#246996;
-  font-size:1em;
+  font-size:2em;
   position:relative;
   padding:20px;
   text-align:left;
@@ -79,7 +79,7 @@ footer {
 }
 .Atitle{
   background-color:rgba(0,0,0,0.3);
-  font-size:1em;
+  font-size:2em;
   position:relative;
   padding:20px;
   text-align:middle;
@@ -98,7 +98,7 @@ footer {
 }
 .Btitle{
   background-color:rgba(0,0,0,0.3);
-  font-size:1em;
+  font-size:2em;
   position:relative;
   padding:20px;
   text-align:middle;
@@ -118,7 +118,7 @@ footer {
 }
 .Ctitle{
   background-color:rgba(0,0,0,0.3);
-  font-size:1em;
+  font-size:2em;
   position:relative;
   padding:20px;
   text-align:middle;
@@ -140,7 +140,7 @@ footer {
 }
 .Dtitle{
   background-color:rgba(0,0,0,0.3);
-  font-size:1em;
+  font-size:2em;
   position:relative;
   padding:20px;
   text-align:middle;
@@ -160,7 +160,7 @@ footer {
 }
 .Etitle{
   background-color:rgba(0,0,0,0.3);
-  font-size:1em;
+  font-size:2em;
   position:relative;
   padding:20px;
   text-align:right;
