@@ -62,7 +62,7 @@ footer {
   font-size:1em;
   position:relative;
   padding:20px;
-  text-align:right;
+  text-align:left;
   transform:translate(-7.9%,0);
   width:200px;
   z-index:35;
@@ -75,13 +75,13 @@ footer {
   height:350px;
 }
 .Atitle{
-  background-color:#68AB84;
+  background-color:rgba(0,0,0,0.3);
   font-size:1em;
   position:relative;
   padding:20px;
-  text-align:right;
+  text-align:left;
   transform:translate(-8.5%,0);
-  width:175px;
+  width:100%;
   z-index:35;
 
 }
@@ -95,13 +95,13 @@ footer {
   height:350px;
 }
 .Btitle{
-  background-color:#25425E;
+  background-color:rgba(0,0,0,0.3);
   font-size:1em;
   position:relative;
   padding:20px;
-  text-align:right;
+  text-align:left;
   transform:translate(-8.5%, 0);
-  width:175px;
+  width:100%;
   z-index:35;
 
 }
@@ -115,13 +115,13 @@ footer {
   height:350px;
 }
 .Ctitle{
-  background-color:#DB8D0F;
+  background-color:rgba(0,0,0,0.3);
   font-size:1em;
   position:relative;
   padding:20px;
-  text-align:right;
+  text-align:left;
   transform:translate(-8.5%, 0);
-  width:175px;
+  width:100%;
   z-index:35;
 
 }
@@ -138,13 +138,13 @@ footer {
   transform:translate(-30px, 10px);
 }
 .Dtitle{
-  background-color:#B83E3E;
+  background-color:rgba(0,0,0,0.3);
   font-size:1em;
   position:relative;
   padding:20px;
-  text-align:right;
+  text-align:left;
   transform:translate(-8.5%, 0);
-  width:175px;
+  width:100%;
   z-index:35;
 
 
@@ -159,13 +159,13 @@ footer {
   height:350px;
 }
 .Etitle{
-  background-color:#404A4A;
+  background-color:rgba(0,0,0,0.3);
   font-size:1em;
   position:relative;
   padding:20px;
-  text-align:right;
+  text-align:left;
   transform:translate(-8.5%, 0);
-  width:175px;
+  width:100%;
   z-index:35;
 
 }
