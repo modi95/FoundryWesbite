@@ -6,10 +6,39 @@
  @import url(http://fonts.googleapis.com/css?family=Quicksand:400,300,700);
  @import url(http://fonts.googleapis.com/css?family=Jockey+One);
  @import url(http://fonts.googleapis.com/css?family=Six+Caps);
-body {
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+html body {
+  padding:0px;
+  margin:0px;
+  font-family: 'Quicksand', sans-serif;
 }
 
+#bg{
+  background-image: url("../img/header-bg.jpg");
+  background-size: cover;
+  background-color:white;
+  width:100vw;
+  height:50vh;
+  padding:0px;
+  font-family: 'Six Caps', sans-serif;
+  margin:0px;
+  color:white;
+  display: inline-block;
+  z-index:-213213;
+}
+
+#bg h1{
+  font-size:7.0em;
+}
+
+#bg h2{
+  font-size:3.0em;
+  transform:translate(-7vw,0vh);
+}
+
+#bg h3{
+  font-size:3.0em;
+  transform:translate(2.5vw,0vh);
+}
 .img-center {
 	margin: 0 auto;
 }
@@ -17,9 +46,13 @@ body {
 footer {
     margin: 50px 0;
 }
+.person{
+  padding:1px;
+}
 .overlord{
   color:white;
   background-color:#3498DB;
+  transform:translate(0%,2px);
   font-family: 'Quicksand', sans-serif;
   height:350px;
 }
@@ -30,7 +63,7 @@ footer {
   position:relative;
   padding:20px;
   text-align:right;
-  transform:translate(-8.5%,0);
+  transform:translate(-7.9%,0);
   width:200px;
   z-index:35;
 
@@ -177,7 +210,7 @@ footer {
   float:left;
   border-right-color: #ff0000;
   text-align:center;
-  background-color:#D64838;
+  background-color:#5E6C6C;
   height:60px;
   line-height: 60px;
 }
@@ -191,7 +224,7 @@ footer {
   float:left;
   border-right-color: #ff0000;
   text-align:center;
-  background-color:#5E6C6C;
+  background-color:#D64838;
   height:60px;
   line-height: 60px;
 }
