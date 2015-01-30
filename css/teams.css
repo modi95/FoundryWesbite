@@ -12,6 +12,7 @@ html body {
   font-family: 'Quicksand', sans-serif;
 }
 
+
 #bg{
   background-image: url("../img/header-bg.jpg");
   background-size: cover;
@@ -87,6 +88,8 @@ footer {
   z-index:35;
 
 }
+
+
 .radhir {
   font-size: 20px;
 }
