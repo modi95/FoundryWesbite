@@ -34,11 +34,13 @@ html body {
 #bg h2{
   font-size:3.0em;
   transform:translate(-7vw,0vh);
+  color:#F39C12;
 }
 
 #bg h3{
   font-size:3.0em;
   transform:translate(2.5vw,0vh);
+  color:#F39C12;
 }
 .img-center {
   margin: 0 auto;

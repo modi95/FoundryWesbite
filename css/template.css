@@ -37,11 +37,13 @@ html body {
 #bg h2{
   font-size:3.0em;
   transform:translate(-7vw,0vh);
+  color:#F39C12;
 }
 
 #bg h3{
   font-size:3.0em;
   transform:translate(2.5vw,0vh);
+  color:#F39C12;
 }
 .img-center {
   margin-left:35%;
@@ -144,9 +146,7 @@ html body {
   background-image: url('../img/sponsors/3red_color.png');
 }
 
-a:hover{
-  text-decoration: none;
-}
+
 
 .button{
   color:white;
@@ -396,4 +396,9 @@ footer {
   background-color:#1ABC9C;
   height:60px;
   line-height: 60px;
+}
+.img-center{
+  margin:auto;
+  transform:translate(-3px,10px);
+  margin-bottom:5px;
 }
